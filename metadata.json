@@ -1,0 +1,6 @@
+{
+  "name": "MacroLab — 기초대사량·탄단지·식품 환산 계산기",
+  "description": "신체 정보와 생활습관, 운동 구력을 바탕으로 기초대사량(BMR), 유지 칼로리(TDEE), 목표별 섭취 칼로리 및 탄단지 5:3:2 비율의 실생활 식품 섭취량을 계산하는 반응형 웹 애플리케이션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
